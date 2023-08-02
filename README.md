@@ -3,6 +3,6 @@
 > Status do Projeto: Em desenvolvimento
 > 
 > '''
-> ntp install react
+> node app.js
 > '''
 > 
